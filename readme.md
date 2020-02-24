@@ -1,1 +1,2 @@
 - variable d'env obligatoire
+- inspiration site: toto.com
